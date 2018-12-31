@@ -1,0 +1,4 @@
+serialTerminal   KEYWORD1
+Callback         KEYWORD1
+main             KEYWORD2
+setCallbacks     KEYWORD2
